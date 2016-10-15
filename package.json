@@ -1,0 +1,33 @@
+{
+  "name": "sensor-station",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "bmp085": "^0.4.0",
+    "cron": "^1.1.1",
+    "i2c-sensor-am2315": "^1.0.4",
+    "onoff": "^1.1.1",
+    "plantower": "^1.1.1",
+    "raspi-sensors": "^0.2.8",
+    "request": "^2.75.0",
+    "rpi-gpio": "^0.7.0",
+    "sleep-promise": "^2.0.0",
+    "t6603": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfectworks/sensor-station.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perfectworks/sensor-station/issues"
+  },
+  "homepage": "https://github.com/perfectworks/sensor-station#readme"
+}
