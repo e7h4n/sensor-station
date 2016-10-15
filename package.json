@@ -13,6 +13,7 @@
     "raspi-sensors": "^0.2.8",
     "request": "^2.75.0",
     "rpi-gpio": "^0.7.0",
+    "serialport": "^4.0.3",
     "sleep-promise": "^2.0.0",
     "t6603": "^1.0.0"
   },
